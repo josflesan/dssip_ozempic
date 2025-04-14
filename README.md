@@ -1,4 +1,4 @@
-# Data Science in Socio-Techno Economic Society
+# Data Science in Socio-Techno Economic Systems
 ## Investigating the Link Between Ozempic Online Discussion and Mental Health in Young People
 
 Data Science project investigating the ties between Ozempic social media discussion and mental health in young people. Our initial hypothesis is that the Ozempic "trend" has likely led to increased concern over personal aesthetic and presentation and even possibly worsened body dysmorphia amongst certain people. In addition, we are interested in trying to develop some model that can forecast mental health trends from 
