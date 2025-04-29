@@ -1,0 +1,3 @@
+Ljung-Box Test Results:
+      lb_stat  lb_pvalue
+12  15.871134    0.19721
