@@ -1,0 +1,3 @@
+Mental Health Similarity: 0.4039330780506134
+Pop Culture Similarity: 0.8950684666633606
+Discussion Most Similar to: POP CULTURE
